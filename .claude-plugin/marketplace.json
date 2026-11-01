@@ -1,0 +1,24 @@
+{
+  "name": "jtbd-research-skills",
+  "description": "JTBD agent skills for product discovery",
+  "owner": {
+    "name": "Bijoy Cherian"
+  },
+  "plugins": [
+    {
+      "name": "jtbd-skills",
+      "displayName": "JTBD Opportunity Landscape",
+      "source": "./",
+      "description": "Understand your customers deeply. Turn customer interviews, or what people say about any website, into ranked jobs to be done, with the quotes behind each one. Try /jtbd https://www.airbnb.com/, or /jtbd with your interview notes attached. AI estimates are labelled, and you can challenge any score.",
+      "category": "product",
+      "keywords": [
+        "jobs-to-be-done",
+        "jtbd",
+        "customer-research",
+        "interviews",
+        "opportunity-map",
+        "product-discovery"
+      ]
+    }
+  ]
+}
